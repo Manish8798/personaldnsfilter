@@ -1,6 +1,6 @@
 # personalDNSfilter
 
-See http://www.zenz-solutions.de/personaldnsfilter for details
+[Click here for details](http://www.zenz-solutions.de/personaldnsfilter)
 
 [<img src="https://f-droid.org/badge/get-it-on.png"
      alt="Get it on F-Droid"
